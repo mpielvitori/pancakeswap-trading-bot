@@ -1,0 +1,26 @@
+{
+  "network": "testnet",
+  "mainnet": {
+    "privateKey": "",
+    "node": "https://bsc-dataseed.binance.org",
+    "addresses": {
+      "WBNB": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "BUSD": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "factory": "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73",
+      "router": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+      "recipient": "0x271D094930A1FB9721523E1e96357FC50f775749"
+    }
+  },
+  "testnet": {
+    "privateKey": "",
+    "node": "https://data-seed-prebsc-1-s1.binance.org:8545",
+    "addresses": {
+      "WBNB": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "BUSD": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "factory": "0x6725F303b657a9451d8BA641348b6761A6CC7a17",
+      "router": "0xD99D1c33F9fC3444f8101754aBC46c52416550D1",
+      "recipient": "0x271D094930A1FB9721523E1e96357FC50f775749",
+      "CAKE": "0x91984629f6c29c09d44cf984948556599c622149"
+    }
+  }
+}
